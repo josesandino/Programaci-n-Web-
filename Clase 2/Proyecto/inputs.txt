@@ -1,0 +1,19 @@
+inputs
+    text
+    email
+    password
+    date
+    color
+    url
+    number
+    tel
+
+select
+
+
+atributos (form input)
+    required
+    placeholder
+    value
+    method
+    actions
